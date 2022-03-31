@@ -1,0 +1,11 @@
+C:\Users\owner\Documents\KennyProjects\WishME\WishMeEmailService\bin\Debug\net5.0\WishMeEmailService.deps.json
+C:\Users\owner\Documents\KennyProjects\WishME\WishMeEmailService\bin\Debug\net5.0\WishMeEmailService.dll
+C:\Users\owner\Documents\KennyProjects\WishME\WishMeEmailService\bin\Debug\net5.0\ref\WishMeEmailService.dll
+C:\Users\owner\Documents\KennyProjects\WishME\WishMeEmailService\bin\Debug\net5.0\WishMeEmailService.pdb
+C:\Users\owner\Documents\KennyProjects\WishME\WishMeEmailService\obj\Debug\net5.0\WishMeEmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Documents\KennyProjects\WishME\WishMeEmailService\obj\Debug\net5.0\WishMeEmailService.AssemblyInfoInputs.cache
+C:\Users\owner\Documents\KennyProjects\WishME\WishMeEmailService\obj\Debug\net5.0\WishMeEmailService.AssemblyInfo.cs
+C:\Users\owner\Documents\KennyProjects\WishME\WishMeEmailService\obj\Debug\net5.0\WishMeEmailService.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\KennyProjects\WishME\WishMeEmailService\obj\Debug\net5.0\WishMeEmailService.dll
+C:\Users\owner\Documents\KennyProjects\WishME\WishMeEmailService\obj\Debug\net5.0\ref\WishMeEmailService.dll
+C:\Users\owner\Documents\KennyProjects\WishME\WishMeEmailService\obj\Debug\net5.0\WishMeEmailService.pdb

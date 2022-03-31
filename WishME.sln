@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WishME", "WishME\WishME.csproj", "{036F2902-88CC-4F96-A74D-6B0D0997256A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WishMeEmailService", "WishMeEmailService\WishMeEmailService.csproj", "{D96D0F72-9ADF-49C9-8430-3C285E0C8004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{036F2902-88CC-4F96-A74D-6B0D0997256A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036F2902-88CC-4F96-A74D-6B0D0997256A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036F2902-88CC-4F96-A74D-6B0D0997256A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036F2902-88CC-4F96-A74D-6B0D0997256A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96D0F72-9ADF-49C9-8430-3C285E0C8004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96D0F72-9ADF-49C9-8430-3C285E0C8004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96D0F72-9ADF-49C9-8430-3C285E0C8004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96D0F72-9ADF-49C9-8430-3C285E0C8004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {071C418D-182F-4072-A116-3FC15E472DB9}
+	EndGlobalSection
+EndGlobal
