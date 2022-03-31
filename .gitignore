@@ -1,0 +1,7 @@
+logs/
+WishMe/obj/
+WishMe/bin/
+WishMe/Migrations/
+WishMe/.vs/
+WishMeEmailService/bin/
+WishMeEmailService/obj/
