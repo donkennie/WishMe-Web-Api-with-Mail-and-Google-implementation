@@ -19,5 +19,7 @@ namespace WishME.Model
         [StringLength(50, MinimumLength = 6)]
         [Required(ErrorMessage = "Password is a required field")]
         public string Password { get; set; }
+
+        public IList<AuthenticationScheme> ExternalLogins { get; set; }
     }
 }
